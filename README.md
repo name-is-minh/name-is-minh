@@ -28,13 +28,14 @@ I'm excited to announce that I will be participating in the **Student Cluster Co
 
 - **Event**: Student Cluster Competition 2024
 - **Date**: November 2024
-- **Details**: [Learn more about the competition here](https://sc24.supercomputing.org/2024/09/teams-compete-in-the-ultimate-hpc-challenge-at-sc24/)
+- **Details**: <a href="https://sc24.supercomputing.org/2024/09/teams-compete-in-the-ultimate-hpc-challenge-at-sc24/" target="_blank">Learn more about the competition here</a>
+
 
 This experience will enhance my skills in HPC and teamwork, and I'm looking forward to the challenges ahead!
 
 ## Let's Connect!
-- 🌐 [Personal Website](https://people.tamu.edu/~mhnguyen/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/minhnguyenvn/)
-- 📧 Email: mhnguyen@tamu.edu
+- 🌐 <a href="https://people.tamu.edu/~mhnguyen/" target="_blank">Personal Website</a>
+- 💼 <a href="https://www.linkedin.com/in/minhnguyenvn/" target="_blank">LinkedIn</a>
+- 📧 <a href="mailto:mhnguyen@tamu.edu" target="_blank">Email</a>
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
