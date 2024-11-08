@@ -19,7 +19,7 @@ I'm a Computer Science student at Texas A&M University, passionate about softwar
 ## Technical Skills
 
 - **Languages**: C++, Python, Java, JavaScript, HTML, CSS, Bash, Haskell, Markdown, SQL
-- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud
+- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud, Postman
 - **Libraries + Frameworks**: React, Node.js, Flask, NumPy, Matplotlib, Pandas, Turtle
 
 ## Upcoming Event
