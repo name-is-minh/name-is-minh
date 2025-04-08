@@ -11,6 +11,9 @@ I'm a Computer Science student at Texas A&M University, passionate about softwar
 ## My Projects
 
 - **Employee Scheduling System Optimization**: Improved performance by 95% using JavaScript and Google App Script
+- **Panda Express POS System**: Developed a full-stack POS system for Panda Express using Agile methodology with PostgreSQL, RESTful APIs, Weather and Google Translate APIs integrations
+- **Airport Navigation App**: Created a personalized airport navigation app using React Native, integrating OpenAI and Google Maps APIs to recommend traveler-specific locations with embedded interactive maps
+- <a href="https://name-is-minh.github.io/build4good-rice-clicker/" target="_blank">**Rice Clicker**</a>: Built a web-based clicking game using HTML, Tailwind CSS, and JavaScript with Notion API integration and deployed via GitHub Pages
 - **Frankenstein AI Simulation**: Designed and developed an interactive 2D educational game using Python and Godot Engine
 - **Roni's Mac Bar Sales Dashboard**: Created an interactive and data-driven dashboard using Python
 - **Pinoy & Thai Asian Cuisine Website**: Developed a React-based frontend with Notion API integration
@@ -20,9 +23,9 @@ I'm a Computer Science student at Texas A&M University, passionate about softwar
 
 ## Technical Skills
 
-- **Languages**: C++, Python, Java, JavaScript, HTML, CSS, Bash, Haskell, Markdown, SQL
-- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud, Postman, Jira, Logisim, Google Cloud Platform
-- **Libraries + Frameworks**: React, Node.js, Flask, NumPy, Matplotlib, Pandas, Turtle
+- **Languages**: C++, Python, Java, JavaScript, TypeScript, HTML, CSS, Bash, Haskell, Markdown, SQL
+- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud, Postman, Jira, Logisim, Google Cloud Platform, Expo Go, Figma
+- **Libraries + Frameworks**: React, React Native, Vite, Node.js, Express.js, Flask, Tailwind CSS, NumPy, Matplotlib, Pandas, Turtle
 
 ## Competition
 
@@ -30,7 +33,7 @@ I learned a lot from participating in the **Student Cluster Competition 2024** a
 
 - **Event**: Student Cluster Competition 2024
 - **Date**: November 2024
-- **Details**: <a href="https://sc24.supercomputing.org/2024/09/teams-compete-in-the-ultimate-hpc-challenge-at-sc24/" target="_blank">Learn more about the competition here</a>
+- **Details**: <a href="https://sc24.supercomputing.org/students/student-cluster-competition/" target="_blank">Learn more about the competition here</a>
 
 ### What I did:
   - Collaborated on building and optimizing a HPC cluster with 4 Dell PowerEdge R7625 servers, each with Dual AMD 9534, 2.5GHz, 64C/128T processors and 2 AMD Instinct MI210 64GB GPU.
