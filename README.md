@@ -1,15 +1,16 @@
 # Welcome to Minh Nguyen's GitHub! 👋
 
-I'm a Computer Science student at Texas A&M University, passionate about software development, data analysis, and problem-solving. I currently work as a Technician at High Performance Research Computing, and I'm constantly expanding my skills and knowledge in various technologies.
+I'm a Computer Science student at Texas A&M University, passionate about software development, data analysis, and problem-solving. I currently work as a HPC Consultant / Software Developer at High Performance Research Computing, and I'm constantly expanding my skills and knowledge in various technologies.
 
 ## About Me
 
-- 🎓 Pursuing a **Bachelor of Science in Computer Science** at Texas A&M University (Expected graduation: May 2026)
-- 💼 **Technician** at High Performance Research Computing
+- 🎓 Pursuing a **Bachelor of Science in Computer Science** at Texas A&M University (Expected graduation: Dec 2026)
+- 💼 **HPC Consultant / Software Developer** at High Performance Research Computing
 - 🏆 3rd Prize winner at **Build4Good Hackathon** for Best Use of Notion API
 
 ## My Projects
 
+- <a href="https://itch.io/jam/texas-game-jam-2025/rate/3918782/" target="_blank">**SlapCard**</a>: Developed a fast-paced 2D multiplayer card game in Unity for the 2025 Texas Game Jam, ranking 11th out of 88 entries in the People's Choice category
 - **Employee Scheduling System Optimization**: Improved performance by 95% using JavaScript and Google App Script
 - **Panda Express POS System**: Developed a full-stack POS system for Panda Express using Agile methodology with PostgreSQL, RESTful APIs, Weather and Google Translate APIs integrations
 - **Airport Navigation App**: Created a personalized airport navigation app using React Native, integrating OpenAI and Google Maps APIs to recommend traveler-specific locations with embedded interactive maps
@@ -24,7 +25,7 @@ I'm a Computer Science student at Texas A&M University, passionate about softwar
 ## Technical Skills
 
 - **Languages**: C++, Python, Java, JavaScript, TypeScript, HTML, CSS, Bash, Haskell, Markdown, SQL
-- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud, Postman, Jira, Logisim, Google Cloud Platform, Expo Go, Figma
+- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud, Postman, Jira, Logisim, Google Cloud Platform, Expo Go, Figma, Microsoft Azure, Azure AI Services, Microsoft Foundry, Power Automate, Microsoft Copilot Studio, Microsoft Fabric
 - **Libraries + Frameworks**: React, React Native, Vite, Node.js, Express.js, Flask, Tailwind CSS, NumPy, Matplotlib, Pandas, Turtle
 
 ## Competition
@@ -40,9 +41,7 @@ I learned a lot from participating in the **Student Cluster Competition 2024** a
   - Managed HPC System Performance, employing skills in Linux system administration (Rocky Linux 8.10), Slurm job scheduling, and software tools like Easybuild and Spack for application compilation and dependency management.
   - Optimized NAS Benchmark, ICON Application, and Reproducibility Challenge on a high-performance cluster featuring 512 CPU cores and 8 AMD Instinct MI210 GPUs, improving application performance within a strict 4500W power limit.
 
-
 ## Let's Connect!
-- 🌐 <a href="https://people.tamu.edu/~mhnguyen/" target="_blank">Personal Website</a>
 - 💼 <a href="https://www.linkedin.com/in/minhnguyenvn/" target="_blank">LinkedIn</a>
 - 📧 <a href="mailto:mhnguyen@tamu.edu" target="_blank">Email</a>
 
