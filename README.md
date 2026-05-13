@@ -11,7 +11,7 @@ I'm a Computer Science student at Texas A&M University, passionate about softwar
 ## My Projects
 
 - <a href="https://itch.io/jam/texas-game-jam-2025/rate/3918782/" target="_blank">**SlapCard**</a>: Developed a fast-paced 2D multiplayer card game in Unity for the 2025 Texas Game Jam, ranking 11th out of 70 submissions. Live demo: <a href="https://play.unity.com/en/games/d600a884-3007-4974-9770-5fe88f24d1eb/slapcardbuild" target="_blank">play.unity.com</a>
-- <a href="https://devpost.com/software/rippleboard" target="_blank">Rippleboard</a>: Collaborated on a whiteboard app; helped implement core functionality and polish UX. Live demo: <a href="https://rippleboard.vercel.app/" target="_blank">rippleboard.vercel.app</a>
+- <a href="https://devpost.com/software/rippleboard" target="_blank">**Rippleboard**</a>: Collaborated on a whiteboard app using Next.js, PostgreSQL, Supabase, Tailwind CSS, and TypeScript. Live demo: <a href="https://rippleboard.vercel.app/" target="_blank">rippleboard.vercel.app</a>
 - **Employee Scheduling System Optimization**: Improved performance by 95% using JavaScript and Google App Script
 - **Panda Express POS System**: Developed a full-stack POS system for Panda Express using Agile methodology with PostgreSQL, RESTful APIs, Weather and Google Translate APIs integrations
 - **Airport Navigation App**: Created a personalized airport navigation app using React Native, integrating OpenAI and Google Maps APIs to recommend traveler-specific locations with embedded interactive maps
@@ -25,8 +25,8 @@ I'm a Computer Science student at Texas A&M University, passionate about softwar
 
 ## Technical Skills
 
-- **Languages**: C++, Python, Java, JavaScript, TypeScript, HTML, CSS, Bash, Haskell, Markdown, SQL
-- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud, Postman, Jira, Logisim, Google Cloud Platform, Expo Go, Figma, Microsoft PowerPoint, Microsoft Word, Microsoft Excel
+- **Languages**: Python, C++, Java, JavaScript, TypeScript, HTML, CSS, Bash, Haskell, Markdown, SQL
+- **Developer Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook, RStudio, Spyder, MobaXterm, Docker, Charliecloud, Postman, Jira, Logisim, Google Cloud Platform, Expo Go, Figma, Microsoft Azure, Azure AI Services, Microsoft Foundry, Power Automate, Microsoft Copilot Studio, Microsoft Fabric, AWS (EC2, S3, CodePipeline, Route53, CloudFront, ACM)
 - **Libraries + Frameworks**: React, React Native, Vite, Node.js, Express.js, Flask, Tailwind CSS, NumPy, Matplotlib, Pandas, Turtle
 
 ## Competition
