@@ -10,7 +10,7 @@ I'm a Computer Science student at Texas A&M University, passionate about softwar
 
 ## My Projects
 
-- <a href="https://itch.io/jam/texas-game-jam-2025/rate/3918782/" target="_blank">**SlapCard**</a>: Developed a fast-paced 2D multiplayer card game in Unity for the 2025 Texas Game Jam, ranking 11th out of 70 submissions
+- <a href="https://itch.io/jam/texas-game-jam-2025/rate/3918782/" target="_blank">**SlapCard**</a>: Developed a fast-paced 2D multiplayer card game in Unity for the 2025 Texas Game Jam, ranking 11th out of 70 submissions. Live demo: <a href="https://play.unity.com/en/games/d600a884-3007-4974-9770-5fe88f24d1eb/slapcardbuild" target="_blank">play.unity.com</a>
 - <a href="https://devpost.com/software/rippleboard" target="_blank">Rippleboard</a>: Collaborated on a whiteboard app; helped implement core functionality and polish UX. Code: <a href="https://github.com/Betheony/BUILD4GOOD-FISHBOWL" target="_blank">@Betheony/BUILD4GOOD-FISHBOWL</a>, Live: <a href="https://rippleboard.vercel.app/" target="_blank">rippleboard.vercel.app</a>.
 - **Employee Scheduling System Optimization**: Improved performance by 95% using JavaScript and Google App Script
 - **Panda Express POS System**: Developed a full-stack POS system for Panda Express using Agile methodology with PostgreSQL, RESTful APIs, Weather and Google Translate APIs integrations
